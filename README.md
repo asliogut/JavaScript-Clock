@@ -1,3 +1,3 @@
-#JavaScript ile Anlık Saat Gösterimi
+# JavaScript ile Anlık Saat Gösterimi
 
 ![img](img/pic.jpg)
